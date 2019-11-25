@@ -1,0 +1,32 @@
+{
+  "name": "nasa",
+  "version": "1.0.0",
+  "description": "NASA API asteroid picture of the day",
+  "main": "nasa.js",
+  "dependencies": {
+    "https": "^1.0.0",
+    "process": "^0.11.10",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpermenter/NASA_APOD_app"
+  },
+  "keywords": [
+    "NASA",
+    "space",
+    "asteroids",
+    "photography",
+    "data.gov"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpermenter/userstats_node_app/issues"
+  },
+  "homepage": "https://github.com/kpermenter/userstats_node_app#readme"
+}
